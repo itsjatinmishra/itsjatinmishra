@@ -38,6 +38,7 @@ Currently focusing on **backend development with Django** and modern web technol
 ---
 
 ## 📌 Projects
+- 🍔 Food Delivery (Food4u) — A MERN stack food delivery platform with User, Admin, and Restaurant dashboards, supporting authentication, ordering, payments, sales analytics, restaurant onboarding, and inventory management.
 - 🔢 **Django Calculator App** – Form handling, POST requests, template inheritance  
 - 🎬 **Movie Search App** – API integration using Axios & React  
 - 📊 **AI Exam Paper Generator** (Concept Project)
@@ -45,6 +46,7 @@ Currently focusing on **backend development with Django** and modern web technol
 ---
 
 ## 🌱 Currently Learning
+- JavaScript (Advance)
 - Django (Deep dive)
 - REST APIs
 - Clean Code & Best Practices
@@ -52,8 +54,8 @@ Currently focusing on **backend development with Django** and modern web technol
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(add your link)*
-- 📧 Email: *(optional)*
+- 💼 LinkedIn: https://www.linkedin.com/in/itsjatinmishra/
+- 📧 Email: itsjatinmishra@gmail.com
 
 ---
 
